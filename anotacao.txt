@@ -1,0 +1,3 @@
+* Será usado a biblioteca Matplotlib.Pyplot para a criação dos gráficos.
+
+-> pip install Matplotlib
